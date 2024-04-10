@@ -11,9 +11,9 @@ repositories {
 }
 
 dependencies {
-	commonMainImplementation("io.data2viz.d2v:d2v-viz:0.10.8-SNAPSHOT")
-	commonMainImplementation("io.data2viz.d2v:d2v-sankey:0.10.8-SNAPSHOT")
-	commonMainImplementation("io.data2viz.d2v:d2v-format:0.10.8-SNAPSHOT")
+	commonMainImplementation("io.data2viz.d2v:d2v-viz:0.10.7-SNAPSHOT")
+	commonMainImplementation("io.data2viz.d2v:d2v-sankey:0.10.7-SNAPSHOT")
+	commonMainImplementation("io.data2viz.d2v:d2v-format:0.10.7-SNAPSHOT")
 }
 
 kotlin {
