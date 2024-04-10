@@ -1,6 +1,7 @@
 package io.data2viz.demo
 
-const val incomeString = """Server Products & Cloud,Intelligent Cloud, 19.6
+const val incomeString = """
+Server Products & Cloud,Intelligent Cloud, 19.6
 Enterprise services,Intelligent Cloud, 1.9
 Office Products,Productivity, 11.80
 Operating Profit,Net Profit,16.40
@@ -22,4 +23,5 @@ Devices,Personal Computing, 1.40
 Intelligent Cloud,Revenue, 21.50
 Operating Expenses,R&D,6.80
 Operating Expenses,S&M,5.70
-Operating Expenses,G&A,2.30"""
+Operating Expenses,G&A,2.30
+"""
